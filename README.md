@@ -1,6 +1,9 @@
 # Whatsapp Clone App
 This is a clone of the popular instant messaging app, WhatsApp. It is a chat application that allows users to send and receive text messages.
 
+![Login Screenshot](./assets/login.png)
+![Register Screenshot](./assets/register.png)
+
 ## Features
 Registration and login with email.
 Chatting with contacts.
